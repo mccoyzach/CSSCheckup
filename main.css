@@ -1,0 +1,39 @@
+.wrapper{
+    margin: 15px;
+    background-color: lightgrey;
+    border-style: groove;
+    border-color: black;
+    border-width: 10px;
+}
+
+
+.background1{
+    background-color: lightblue;
+}
+
+
+h1{
+ text-align: center;
+}
+h2{
+    color: blue;
+}
+
+li{
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+}
+.background2{
+    background-color: lightpink;
+}
+#title-p{
+    text-align: center;
+    color: darkred;
+   }
+   p{
+    font-family: "Times New Romans", Times, serif;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
